@@ -13,8 +13,8 @@
 
 
     <application
-        android:label="gp"
-        android:icon="@mipmap/ic_launcher">
+        android:label="Natural Language Programmer"
+        android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
